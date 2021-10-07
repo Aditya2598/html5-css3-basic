@@ -1,3 +1,4 @@
+0.Added a new text to check git diff
 1. git init - To initialize the repository 
 2. git remote add origin https://github.com/aditya2598/html5-css3-basic.git - Connect your local repository to remote repository
 3. git status - To check the status of the files to see if they are created /modified
